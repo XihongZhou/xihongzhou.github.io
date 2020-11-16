@@ -1,115 +1,232 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+<html lang="ja">
 
+<head>
+    <meta charset="UTF-8">
     <title>Xihong Zhou</title>
+    <meta name="description" content="Homepage">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <!-- <link rel="stylesheet" href="./static/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="./static/css/index.css"> 
+
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> <!--for navbar-->
+
+    <script type="text/javascript" src="./static/js/jquery-1.11.1.min.js"></script> <!--for navbar-->
+    <script type="text/javascript" src="./static/js/bootstrap.min.js"></script>
+</head>
 
 
-    <style type="text/css">
-       .anchor-list-item {
-        border-bottom: 1px solid #9a9a9a;
-		    background-color:#E0E0E0;
-       }
-	   body {
-	   font-family: Helvetica;
-	  }
-    </style>
-  </head>
+<body>
+    <div class="wrapper">
+        <header>
+            <!-- navbar -->
+            <nav class="navbar navbar-inverse">
+                <div class="container">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                            data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><span class="glyphicon glyphicon-home"></span>
+                            Xihong Zhou</a>
+                        <p class="navbar-text"></p>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="mynav nav navbar-nav navbar-right">
+                            <li class="active">
+                                <a href="index.html"><span
+                                        class="glyphicon glyphicon-ok"></span> Homepage</a>
+                            </li>
+                            <li>
+                                <a href="./project/project.html"><span class="glyphicon glyphicon-ok"></span> Project</a>
+                            </li>
+                            <li>
+                                <a href="./blog/blog.html"><span class="glyphicon glyphicon-ok"></span> Blog</a>
+                            </li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+        </header>
 
-  <body>
+        <!-- Begin page content -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10">
+                    <br><br><br>
+                    <!-------------------------------------------------------------------->
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img border="0" src="zhou.jpg" height="70%" width="70%">
+                        </div>
 
-    <!-- Begin page content -->
-    <div class="container">
-	    <div class="row">
-        <div class="col-md-10">
-          <br><br><br>
-<!-------------------------------------------------------------------->
-          <div class="row">
-            <div class="col-md-4">
-              <img border="0" src="zhou.jpg" height="70%" width="70%">
+                        <div id="biography" class="col-md-8">
+                            <span>
+                                <font size="6"><b>Xihong Zhou</b></font>
+                            </span>
+                            <p>
+                                <font size="4">PhD student<br>
+                                    <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory</a><br>
+                                    <a
+                                        href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Department
+                                        of Computer Science</a><br>
+                                    <a href="https://www.ehime-u.ac.jp/">Ehime University</a><br>
+                                    E-mail: g863003a@mails.cc.ehime-u.ac.jp <br>
+                                </font>
+                            </p><br>
+                            <span class="Apple-style-span"
+                                style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Simsun; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
+                            </span>
+                        </div>
+                    </div><br>
+                    <!--------------------------------Brief Biography------------------------------------>
+                    <p align="justify" style="margin-bottom: 0.5em">
+                        <font size="3"><b>Brief Biography:</b></font>
+                        <font size="3.0">
+                            Xihong Zhou is received the BS degree from the College of Electrical and Information
+                            Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of
+                            Computer Science, Ehime University, Japan, in 2019.
+                            Currently, he is a second year PhD student in the Department of Computer Science at Ehime
+                            University. His research interest includes field testing, fault diagnosis for digital
+                            systems, and design for testability.
+                        </font>
+                    </p>
+                    <hr>
+
+                    <!-------------------------------------------------------------------------------------------------News--------------------------------------------------------------------------------------------------------------------------------------------------------------->
+                    <div class="entry">
+                        <div id="news" class="page-header">
+                            <h2>News</h2>
+                        </div>
+                        <ul>
+                            <li style="list-style-position: outside; list-style-type: square; ">
+                                <p style="margin-bottom: 0.5em" align="justify">
+                                    <font size="3.0">There is not.</font>
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!----------------------------------------------------------------------------------------------Publications--------------------------------------------------------------------------------------------------------------------------------------------------------->
+                    <div class="entry">
+                        <div id="publications" class="page-header">
+                            <h2>Publications</h2>
+                        </div>
+                        <p style="margin-bottom: 0em">　</p>
+
+                        <p align="justify">
+                            <font size="3.0">
+                                <b>[ITC-CSCC]</b>
+                                Xihong Zhou, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, &quot;<a
+                                    href="./papers/Conferences/International _Conferences/2020ITC-CSCC_zhou.pdf">Aging
+                                    Monitoring for Memory-based Reconfigurable Logic Device (MRLD)</a>&quot;,
+                                Proceedings of the 35th International Technical Conference on Circuits/Systems,
+                                Computers and Communications (ITC-CSCC), 2020.
+                            </font>
+                        </p>
+
+                        <p
+                            style="font-size: 1.2em; font-weight: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0.1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; ">
+                            <br>
+                            <b>
+                                <font size="4"><a href="fullpaper.html" style="text-decoration: underline;">Full
+                                        Publication List ...</a></font>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <!----------------------------------------------------------------------------------------------Menus------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+                <div class="col-md-2">
+                    <nav class="hidden-print hidden-xs hidden-sm affix" style="top:80px; list-style-type:circle;">
+                        <ul class="nav">
+                            <li class="anchor-list-item"><a href="#biography">
+                                    <font size="2">Brief Biography</font>
+                                </a></li>
+                            <li class="anchor-list-item"><a href="#news">
+                                    <font size="2">News</font>
+                                </a></li>
+                            <li class="anchor-list-item"><a href="#publications">
+                                    <font size="2">Publications</font>
+                                </a></li>
+                        </ul>
+                    </nav>
+                </div>
+
             </div>
-
-            <div id="biography" class="col-md-8">
-              <span><font  size="6"><b>Xihong Zhou</b></font></span>
-              <p>
-              <font size="4">PhD student<br>
-                <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory</a><br>
-                <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Department of Computer Science</a><br>
-                <a href="https://www.ehime-u.ac.jp/">Ehime University</a><br>
-                E-mail: g863003a@mails.cc.ehime-u.ac.jp <br>
-              </font>
-              </p><br>
-              <span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Simsun; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
-              </span>
-            </div>   
-          </div><br>
-<!--------------------------------Brief Biography------------------------------------>
-          <p align="justify" style="margin-bottom: 0.5em">
-            <font size="3"><b>Brief Biography:</b></font>
-            <font size="3.0">
-              Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of Computer Science, Ehime University, Japan, in 2019. 
-              Currently, he is a second year PhD student in the Department of Computer Science at Ehime University. His research interest includes field testing, fault diagnosis for digital systems, and design for testability.
-            </font>
-          </p> 
-          <hr>
-
-<!-------------------------------------------------------------------------------------------------News--------------------------------------------------------------------------------------------------------------------------------------------------------------->                      
-          <div class="entry">
-            <div id="news" class="page-header">
-              <h2>News</h2>
-            </div>
-            <ul>
-              <li style="list-style-position: outside; list-style-type: square; "> 
-                <p style="margin-bottom: 0.5em" align="justify">
-                  <font  size="3.0">There is not.</font>
-                </p>
-              </li>
-            </ul>
-          </div>
-
-<!----------------------------------------------------------------------------------------------Publications--------------------------------------------------------------------------------------------------------------------------------------------------------->
-          <div class="entry">
-            <div id="publications" class="page-header">
-              <h2>Publications</h2>
-            </div>
-            <p style="margin-bottom: 0em">　</p>
-
-            <p align="justify">
-              <font  size="3.0">
-                <b>[ITC-CSCC]</b>
-                Xihong Zhou, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi,  &quot;<a href="./papers/Conferences/International _Conferences/2020ITC-CSCC_zhou.pdf">Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)</a>&quot;,
-                Proceedings of the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC), 2020.
-              </font>
-            </p>
-
-            <p style="font-size: 1.2em; font-weight: normal; margin-top: 0px; margin-right: 0px; margin-bottom: 0.1em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><br>
-              <b><font  size="4"><a href="fullpaper.html" style="text-decoration: underline;">Full Publication List ...</a></font></b>
-            </p>
-          </div>
         </div>
-<!----------------------------------------------------------------------------------------------Menus------------------------------------------------------------------------------------------------------------------------------------------------------------------>
         
-        <div class="col-md-2">
-          <nav class="hidden-print hidden-xs hidden-sm affix" style="top:80px; list-style-type:circle;">
-            <ul class="nav" >
-             <li class="anchor-list-item"><a href="#biography"><font size="2">Brief Biography</font></a></li>
-             <li class="anchor-list-item"><a href="#news"><font size="2">News</font></a></li>
-             <li class="anchor-list-item"><a href="#publications"><font size="2">Publications</font></a></li>
-            </ul><br><br>
-          </nav>
-        </div>
+        <footer class="">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <a href="mailto:g863003a@mails.cc.ehime-u.ac.jp"><span
+                                class="glyphicon glyphicon-envelope"></span> g863003a@mails.cc.ehime-u.ac.jp</a>
+                        <span class="point"> · </span>
 
-      </div>
+                        <a href="https://github.com/XihongZhou">
+                            <span class="icon">
+                                <svg viewBox="0 0 16 16">
+                                    <path fill="#aaa"
+                                        d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z" />
+                                </svg>
+                            </span>
+                            Github
+                        </a>
+
+                        <span class="point"> · </span>
+                        <span><a href="https://github.com/XihongZhou/xihongzhou.github.io">View
+                                source</a></span>
+                        <!-- <span class="point"> · </span>
+                  <span><a class="newpost" href="javascript:;">New post</a></span> -->
+                        <!-- <span class="point"> · </span>
+                  <span><a href="/feed.xml">RSS</a></span> -->
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+        <!-- <script type="text/javascript">
+            function OnClickNewPost() {
+              var title = prompt("Please enter title of your post");
+              if (title != null) {
+                title = title.replace(" ", "-");
+                var currentdate = new Date();
+                var urlNewPage = "https://github.com/XihongZhou/xihongzhou.github.io/tree/gh-pages/new/"
+                  + currentdate.getFullYear() + "-" + (currentdate.getMonth() + 1) + "-" + currentdate.getDate() + "-" + title + ".md";
+        
+                var defaultText = [
+                  '---',
+                  'layout: post',
+                  'comments: true',
+                  'categories: diary',
+                  '---',
+                  '## Title',
+                  'text'
+                ].join('\n');
+                urlNewPage += "&value=" + encodeURIComponent(defaultText);
+                window.open(urlNewPage);
+              }
+            }
+        
+            $(function () {
+              // CreateNewPostLinks
+              $('.newpost').each(function () {
+                $(this).click(OnClickNewPost);
+              });
+            });
+          </script> -->
+
     </div>
-    <br><br><br>
-  </body>
+</body>
+
 </html>
