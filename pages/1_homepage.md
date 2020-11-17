@@ -8,9 +8,9 @@ permalink: /homepage/
 * content
 {:toc}
 
-# this is my homepage
----
-e: myhomepage
-f: myhomepage
-g: myhomepage
----
+# Biography
+***
+- myhomepage
+- myhomepage
+- myhomepage
+
