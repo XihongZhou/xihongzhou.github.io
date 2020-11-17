@@ -6,7 +6,7 @@ newsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/new/gh-pages
 
 # duoshuo_shortname: xihongzhou
 # duoshuo_url: "http://xihongzhou.duoshuo.com"
-
+disqus_shortname: xihongzhou
 # Build settings
 markdown: kramdown
 
