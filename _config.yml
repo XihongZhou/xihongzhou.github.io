@@ -4,11 +4,9 @@ github_username: XihongZhou
 viewsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/blob/gh-pages/
 newsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/new/gh-pages
 
-comments: ture
 duoshuo_shortname: xihongzhou
 duoshuo_url: "http://xihongzhou.duoshuo.com"
 
 # Build settings
 markdown: kramdown
 
-port: 4001
