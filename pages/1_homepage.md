@@ -9,6 +9,7 @@ permalink: /homepage/
 {:toc}
 
 # this is my homepage
+---
 - myhomepage
 - myhomepage
 - myhomepage
