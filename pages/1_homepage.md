@@ -9,9 +9,27 @@ permalink: /homepage/
 * content
 {:toc}
 
-# Biography
-***
-- myhomepage
-- myhomepage
-- myhomepage
+## Biography
 
+- myBiography
+- myBiography
+- myBiography
+
+## Publications
+
+- myPublications
+- myPublications
+- myPublications
+
+## Awards and Honors
+
+- myAwards and Honors
+- myAwards and Honors
+- myAwards and Honors
+- myAwards and Honors
+
+## Presentations
+
+- myPresentations
+- myPresentations
+- myPresentations
