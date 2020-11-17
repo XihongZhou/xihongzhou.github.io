@@ -9,7 +9,7 @@ permalink: /homepage/
 * content
 {:toc}
 
-## Biography
+## Brief Biography
 
 ---
 
