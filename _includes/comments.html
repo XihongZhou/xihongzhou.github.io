@@ -1,6 +1,7 @@
 <!-- {% if page.comments %} -->
     <!-- duoshuo.com javascript include code. -->    
-    {% if site.duoshuo_url %}
+<!--     {% if site.duoshuo_url %}  -->
+    {% if site.duoshuo_shortname %} 
       <div class="post-area post comment">
         <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ site.duoshuo_url }}{{ page.url }}"></div>
       </div>
@@ -16,7 +17,8 @@
 	  </script>
 	{% endif %}
     <!-- disqus.com javascript include code. -->
-	{% if site.disqus_url %}
+<!-- 	{% if site.disqus_url %} -->
+     {% if site.disqus_shortname %} 
     <div class="post-area post comment">
         <div id="disqus_thread"></div>
     </div>
