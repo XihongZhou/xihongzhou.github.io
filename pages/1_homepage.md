@@ -10,6 +10,7 @@ permalink: /homepage/
 
 # this is my homepage
 ---
-- myhomepage
-- myhomepage
-- myhomepage
+e: myhomepage
+f: myhomepage
+g: myhomepage
+---
