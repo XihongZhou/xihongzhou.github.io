@@ -3,7 +3,4 @@ layout: frontpage
 ---
 
 
-# this is a test for webpage
-* 1
-* 2
-* 3
+this is a test for webpage
