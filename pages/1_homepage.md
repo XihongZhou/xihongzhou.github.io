@@ -11,12 +11,15 @@ permalink: /homepage/
 
 ## Biography
 
+---
+
 - myBiography
 - myBiography
 - myBiography
 - myBiography
 - myBiography
-- myBiography- myBiography
+- myBiography
+- myBiography
 - myBiography
 - myBiography
 - myBiography
@@ -24,6 +27,8 @@ permalink: /homepage/
 - myBiography
 
 ## Publications
+
+---
 
 - myPublications
 - myPublications
@@ -39,6 +44,8 @@ permalink: /homepage/
 - myPublications
 
 ## Awards and Honors
+
+---
 
 - myAwards and Honors
 - myAwards and Honors
@@ -58,6 +65,8 @@ permalink: /homepage/
 - myAwards and Honors
 
 ## Presentations
+
+---
 
 - myPresentations
 - myPresentations
