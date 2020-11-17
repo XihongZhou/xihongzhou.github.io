@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Memory Deduplication
+title: MRLD testing
 comments: true
-categories: Deduplication 
+categories: Tesing 
 ---
 
 # this is testing for post
