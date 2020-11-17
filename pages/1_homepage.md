@@ -1,6 +1,6 @@
 ---
-layout: default
-title: myHomepage
+layout: page
+title: Homepage
 comments: true
 permalink: /homepage/
 ---
