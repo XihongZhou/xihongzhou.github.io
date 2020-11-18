@@ -32,9 +32,17 @@ permalink: /homepage/
     <span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Simsun; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
     </span>
   </div>  
-</div>
+</div><br>
 
-**Brief Biography:** Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of Computer Science, Ehime University, Japan, in 2019. Currently, he is a second year PhD student in the Department of Computer Science at Ehime University. His research interest includes field testing, fault diagnosis for digital systems, and design for testability.
+<p align="justify" style="margin-bottom: 0.5em">
+<font size="3"><b>Brief Biography:</b></font>
+<font size="3.0">
+  Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of Computer Science, Ehime University, Japan, in 2019. 
+  Currently, he is a second year PhD student in the Department of Computer Science at Ehime University. His research interest includes field testing, fault diagnosis for digital systems, and design for testability.
+</font>
+</p> 
+<hr>
+
 
 ## Publications
 
