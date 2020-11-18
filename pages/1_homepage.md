@@ -15,7 +15,12 @@ permalink: /homepage/
 ---
 
 
-| ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"}  |<span><font size="6"><b>Xihong Zhou</b></font></span>|
+| <br> ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"}  <br> | 
+<br> <span><font size="6"><b>Xihong Zhou</b></font></span> <br>
+[Computer System Laboratory](http://larissa.cs.ehime-u.ac.jp/) <br>
+[Department of Computer Science](https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html) <br>
+[Ehime University](https://www.ehime-u.ac.jp/) <br>
+**Email:** <g863003a@mails.cc.ehime-u.ac.jp> <br> |
 
 
       
