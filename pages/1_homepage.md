@@ -13,8 +13,24 @@ permalink: /homepage/
 ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"}
 
 <div class="col-md-4">
-  <img border="0" src="https://xihongzhou.github.io/images/zhou.jpg" height="70%" width="70%">
+  <img border="0" src="https://xihongzhou.github.io/images/zhou.jpg" height="40%" width="40%">
  </div>
+<div id="biography" class="col-md-8">
+  <span>
+    <font size="6"><b>Xihong Zhou</b></font>
+  </span>
+  <p>
+    <font size="4">PhD student<br>
+      <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory</a><br>
+      <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Departmentof Computer Science</a><br>
+      <a href="https://www.ehime-u.ac.jp/">Ehime University</a><br>
+  </p><br>
+ </div>
+      
+      
+          
+      
+    
 
 
 
