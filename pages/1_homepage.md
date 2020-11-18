@@ -10,9 +10,7 @@ permalink: /homepage/
 {:toc}
 
 
-|
-
-![image](https://xihongzhou.github.io/images/zhou.jpg){: height="20%" width="20%"}
+![image](https://xihongzhou.github.io/images/zhou.jpg){: height="70%" width="70%"}
 
 
 
