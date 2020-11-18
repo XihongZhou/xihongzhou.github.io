@@ -15,7 +15,7 @@ permalink: /homepage/
 ---
 
 
-| ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"}  |<span><font size="6"><b>Xihong Zhou</b></font></span>
+| ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"}  |<span><font size="6"><b>Xihong Zhou</b></font></span>|
 
 
       
