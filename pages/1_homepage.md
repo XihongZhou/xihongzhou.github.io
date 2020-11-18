@@ -32,8 +32,6 @@ permalink: /homepage/
   </span>
 </div> <br> 
 
-  
-  
 **Brief Biography:** Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of Computer Science, Ehime University, Japan, in 2019. Currently, he is a second year PhD student in the Department of Computer Science at Ehime University. His research interest includes field testing, fault diagnosis for digital systems, and design for testability. <br>
 
 
@@ -43,9 +41,14 @@ permalink: /homepage/
 ---
 
 - myPublications
+
+
+
+
 - myPublications
 - myPublications
 - myPublications
+
 - myPublications
 - myPublications
 - myPublications
