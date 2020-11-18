@@ -6,7 +6,7 @@ permalink: /homepage/
 
 ---
 
-* content
+
 {:toc}
 
 ## Brief Biography
