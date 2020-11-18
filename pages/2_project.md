@@ -9,6 +9,6 @@ permalink: /project/
 *
 {:toc}
 
-# this is my project page
+## this is my project page
 - project
 - project
