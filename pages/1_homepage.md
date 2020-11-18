@@ -47,6 +47,8 @@ permalink: /homepage/
 
 ---
 
+- myNews
+
 
 
 ## Publications
