@@ -15,9 +15,7 @@ permalink: /homepage/
 ---
 
 <div>
-
-![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"} <br>
-
+  ![image](https://xihongzhou.github.io/images/zhou.jpg){: height="40%" width="40%"} <br>
 </div>  
   
   
