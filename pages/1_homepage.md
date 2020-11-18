@@ -6,7 +6,6 @@ permalink: /homepage/
 
 ---
 
-* my555
 {:toc}
 
 ## Brief Biography
