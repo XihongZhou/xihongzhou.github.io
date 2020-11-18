@@ -13,6 +13,7 @@ permalink: /homepage/
 ## Biography
 
 ---
+
 div class="row">
   <div class="col-md-4">
     <img border="0" src="https://xihongzhou.github.io/images/zhou.jpg" height="70%" width="70%">
