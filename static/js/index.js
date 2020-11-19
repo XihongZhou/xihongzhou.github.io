@@ -116,11 +116,12 @@ function backToTop() {
         $("body").animate({
             scrollTop: "0"
         }, 500);
+        $(this).tooltip('hide');
     });
 
     //初始化tip
     $(function() {
-        $('[data-toggle="tooltip"]').tooltip({ trigger: 'hover'});
+        $('[data-toggle="tooltip"]').tooltip();
     });
 }
 
