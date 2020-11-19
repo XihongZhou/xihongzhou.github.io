@@ -116,7 +116,7 @@ function backToTop() {
 //         $("body").animate({
 //             scrollTop: "0"
 //         }, 500);
-        $("body").scrollTop(0);
+        $("html,body").scrollTop(0);
         $(this).tooltip('hide');
     });
 
