@@ -113,15 +113,16 @@ function backToTop() {
     });
     //点击回到顶部
     $("#top").click(function() {
-        $("body").animate({
-            scrollTop: "0"
-        }, 500);
-//         $(this).tooltip('hide');
+//         $("body").animate({
+//             scrollTop: "0"
+//         }, 500);
+        $("body").scrollTop(0);
+        $(this).tooltip('hide');
     });
 
     //初始化tip
     $(function() {
-        $('[data-toggle="tooltip"]').tooltip({ trigger: 'hover'});
+        $('[data-toggle="tooltip"]').tooltip();//{ trigger: 'hover'}
     });
 }
 
