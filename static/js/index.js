@@ -120,7 +120,7 @@ function backToTop() {
 
     //初始化tip
     $(function() {
-        $('[data-toggle="tooltip"]').tooltip();
+        $('[data-toggle="tooltip"]').tooltip({ trigger: 'hover'});
     });
 }
 
