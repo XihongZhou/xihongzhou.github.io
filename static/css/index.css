@@ -207,6 +207,7 @@ nav{
 	min-height: 100vh;
 	margin: 0px auto;
 	position: relative;
+	padding-bottom: 120px;/*←footerの高さ*/
 	/*←相対位置*/
 	box-sizing: border-box;
 	/*←全て含めてmin-height:100vhに*/
