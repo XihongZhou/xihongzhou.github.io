@@ -6,24 +6,24 @@
 <script type="text/javascript">  var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_1261499950'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1261499950' type='text/javascript'%3E%3C/script%3E"));</script>
  <!--  <body data-spy="scroll" data-target="#myAffix"> -->
   <body>
+    <div class="wrapper">
+        {% include header.html %}
 
-    {% include header.html %}
+        <div id="main" class="container main">
+          {{ content }}
+        </div>
 
-    <div id="main" class="container main">
-      {{ content }}
-    </div>
 
-    
-    <div id="top" data-toggle="tooltip" data-placement="left" title="back to top">
-      <a href="javascript:;">
-        <div class="arrow"></div>
-        <div class="stick"></div>
-      </a>
-    </div>
+        <div id="top" data-toggle="tooltip" data-placement="left" title="back to top">
+          <a href="javascript:;">
+            <div class="arrow"></div>
+            <div class="stick"></div>
+          </a>
+        </div>
 
-    {% include footer.html %}
+        {% include footer.html %}
 
-    {% include newpost.html %}
-  
+        {% include newpost.html %}
+      </div>
   </body>
 </html>
