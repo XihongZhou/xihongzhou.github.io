@@ -216,7 +216,7 @@ footer{
 	-o-box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
 	box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
 	
-/* 	position: relative; */
+	width: 100%;
 	position: fixed;
 	bottom: 0;	
 }
@@ -292,7 +292,7 @@ blockquote:last-child {
 	background-color: #bbb;
 	border-radius:7px;
 	opacity: 0.8;
-	display: ture;
+	display: none;
 	z-index: 888;
 }
 #top .arrow{
