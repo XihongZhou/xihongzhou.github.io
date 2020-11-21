@@ -136,7 +136,7 @@ function generateContent() {
     if (typeof $('#markdown-toc').html() === 'undefined') {
         // $('#content .content-text').html('<ul><li>文本较短，暂无目录</li></ul>');
         $('#content').hide();
-        $('#myArticle').removeClass('col-md-10').addClass('col-md-12');
+        $('#myArticle').removeClass('col-sm-10').addClass('col-sm-12');
     } else {
         $('#content .content-text').html('<ul>' + $('#markdown-toc').html() + '</ul>');
         /*   //数据加载完成后，加固定边栏
