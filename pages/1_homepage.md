@@ -33,7 +33,6 @@ permalink: /homepage/
     </span>
   </div>  
 </div><br>
-
 <p align="justify" style="margin-bottom: 0.5em">
 <font size="3"><b>Brief Biography:</b></font>
 <font size="3.0">
