@@ -15,11 +15,11 @@ permalink: /homepage/
 ---
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-sm-4">
     <img border="0" src="https://xihongzhou.github.io/images/zhou.jpg" height="70%" width="70%">
   </div>
 
-  <div id="biography" class="col-md-8">
+  <div id="biography" class="col-sm-8">
     <span><font  size="6"><b>Xihong Zhou</b></font></span>
     <p>
     <font size="4">PhD student<br>
