@@ -440,7 +440,7 @@ blockquote:last-child {
 #content a:link {color: #666}		/* 未访问的链接 */
 #content a:visited {color: #666}	/* 已访问的链接 */
 #content a:hover {color: #336;text-decoration: none;}	/* 鼠标移动到链接上 */
-#content a:active {color: #99b}	/* 选定的链接 */
+#content a:active {color: #99b; text-decoration:underline}	/* 选定的链接 */
 
 #content{
 	max-width: 292px;
