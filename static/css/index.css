@@ -308,6 +308,11 @@ blockquote:last-child {
 	display: none;
 	z-index: 888;
 }
+
+#top :hover {
+            background-color:#27CFC3;
+}
+
 #top .arrow{
 	margin:0 auto;
 	padding-top:11px;
