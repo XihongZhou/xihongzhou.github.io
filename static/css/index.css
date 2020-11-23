@@ -455,6 +455,8 @@ blockquote:last-child {
 	/*list-style: none;*/
 	font-size: 15px;
 	line-height: 25px;
+	border-bottom: 1px solid #9a9a9a;
+	background-color: #E0E0E0;
 }
 .shadow-bottom-center{
 	background-color:#f8f8fd; 
