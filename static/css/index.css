@@ -456,8 +456,8 @@ blockquote:last-child {
 	font-size: 15px;
 	line-height: 25px;
 	
-	padding:8px 15px;
-	border-bottom:1px solid #ddd; 
+/* 	padding:8px 15px;
+	border-bottom:1px solid #ddd;  */
 }
 
 #content ul li:hover{
