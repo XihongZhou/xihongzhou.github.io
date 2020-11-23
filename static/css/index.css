@@ -51,7 +51,7 @@ table td{
 nav{
 	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 浏览器取色*/
 	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 浏览器取色*/
-	-o-box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 浏览器取色*//
+	-o-box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 浏览器取色*/
 	box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 给元素块添加周边阴影效果*/
 
 	border-radius: 0;
