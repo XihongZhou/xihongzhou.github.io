@@ -465,6 +465,10 @@ blockquote:last-child {
 	color: #983;
 }
 
+#content ul li li:hover{
+	color:  rgb(63, 15, 235);
+}
+
 .shadow-bottom-center{
 	background-color:#f8f8fd; 
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
