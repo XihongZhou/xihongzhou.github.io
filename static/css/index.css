@@ -220,7 +220,8 @@ footer{
 	min-height: 50px;
 	line-height: 50px;
 	margin-top: 80px;
-	background: #3f4850;
+/* 	background: #3f4850; */
+	background-color:  rgb(35, 56, 68);
 	color: #aaa;
 	text-align: center;
 
