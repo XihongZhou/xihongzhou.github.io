@@ -9,6 +9,7 @@ body {
 }
 article p{
 	/*text-indent: 2em;*/
+	align="justify"
 }
 pre{
 	padding: 0;
