@@ -59,12 +59,10 @@ permalink: /homepage/
 - myPublications
 - myPublications
 - myPublications
-
 ### 2020
 - myPublications
 - myPublications
 - myPublications
-
 ### 2019
 - myPublications
 - myPublications
