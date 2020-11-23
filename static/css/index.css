@@ -455,9 +455,14 @@ blockquote:last-child {
 	/*list-style: none;*/
 	font-size: 15px;
 	line-height: 25px;
-	border-bottom: 1px solid #9a9a9a;
-	background-color: #E0E0E0;
+	border-bottom: 1px solid #c0c0c0;
 }
+
+#content ul li:hover{
+	background-color: rgba(0,0,10,0.075);
+	color: #983;
+}
+
 .shadow-bottom-center{
 	background-color:#f8f8fd; 
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
