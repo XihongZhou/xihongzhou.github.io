@@ -56,18 +56,18 @@ permalink: /homepage/
 
 #### 2020
 
-- 6.	Xihong Zhou, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi. ["Ring-Oscillator Implementation for Monitoring the Aging State of Memory-based Reconfigurable Logic Device (MRLD)."](https://xihongzhou.github.io/papers/Conferences/International/2020ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC2020)*. Jul. 2020
-- 5.	X. Zhou, S. Wang, Y. Higami, H. Takahashi, M. Sato, M.Katsu, S. Sekiguchi, "Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)," 30th Microelectronics Symposium (MES2020), Sep. 2020
-- 4.	周 細紅, 王 森レイ, 樋上 喜信, 高橋 寛. メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装. 第34回エレクトロニクス実装学会春季講演大会講演集. 2020
-- 3.	青野智己, 中岡典弘, 周 細紅, 王 森レイ, 樋上喜信, 高橋 寛, 岩田浩幸, 前田洋一, 松嶋 潤. マルチサイクルテストにおける故障検出強化のためのテストポイント挿入法. 電子情報通信学会技術研究報告. 2020. 119. 420. 19-24
+- Xihong Zhou, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Ring-Oscillator Implementation for Monitoring the Aging State of Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC2020)*. Jul. 2020
+- X. Zhou, S. Wang, Y. Higami, H. Takahashi, M. Sato, M.Katsu, S. Sekiguchi, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020MES_zhou.pdf) *in 30th Microelectronics Symposium (MES2020)*, Sep. 2020.
+- 周 細紅, 王 森レイ, 樋上 喜信, 高橋 寛, ["メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装,"](https://xihongzhou.github.io/papers/Conferences/Japan/2020JIEP_zhou.pdf) *第34回エレクトロニクス実装学会春季講演大会講演集*, 2020.
+- 青野智己, 中岡典弘, 周 細紅, 王 森レイ, 樋上喜信, 高橋 寛, 岩田浩幸, 前田洋一, 松嶋 潤, ["マルチサイクルテストにおける故障検出強化のためのテストポイント挿入法,"](https://xihongzhou.github.io/papers/Conferences/Japan/2019DC_zhou.pdf) *電子情報通信学会技術研究報告*, vol. 119, no. 420, pp. 19-24, Feb. 2020.
 
 #### 2019
 
-- 2.	阿部 寛人, 畝山 勇一朗, 中岡 典弘, 渡辺 友希, 福本 真也, 森田 航平, 中本 裕大, 周 細紅, 河野 靖, 木下 浩二, 一色 正晴, 二宮 崇, 田村 晃裕, 甲斐 博, 高橋 寛, 王 森レイ. Raspberry Piを用いた画像処理とCNNによる微小害虫の計数システムの構築. 令和元年度電気関係学会四国支部連合大会論文集（CD-ROM). 2019
+- 阿部 寛人, 畝山 勇一朗, 中岡 典弘, 渡辺 友希, 福本 真也, 森田 航平, 中本 裕大, 周 細紅, 河野 靖, 木下 浩二, 一色 正晴, 二宮 崇, 田村 晃裕, 甲斐 博, 高橋 寛, 王 森レイ, ["Raspberry Piを用いた画像処理とCNNによる微小害虫の計数システムの構築,"](https://xihongzhou.github.io/papers/Conferences/Japan/2019SJCIEE_zhou.pdf) *令和元年度電気関係学会四国支部連合大会論文集（CD-ROM)*, 2019.
 
 #### 2018
 
-- 1.	周 細紅, 王 森レイ, 高橋 寛. サウンドコード技術を利用した電気錠システムの開発. 電気関係学会四国支部連合大会. 2018
+- 周 細紅, 王 森レイ, 高橋 寛, ["サウンドコード技術を利用した電気錠システムの開発,"](https://xihongzhou.github.io/papers/Conferences/Japan/2018SJCIEE_zhou.pdf) *電気関係学会四国支部連合大会*, 2018.
 
 ## Awards and Honors
 
