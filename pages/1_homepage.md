@@ -73,39 +73,10 @@ permalink: /homepage/
 
 ---
 
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
-- myAwards and Honors
+
 
 ## Presentations
 
 ---
 
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
-- myPresentations
+

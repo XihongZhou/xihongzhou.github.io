@@ -10,29 +10,4 @@ permalink: /project/
 {:toc}
 
 ## this is project page
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
-- project
+
