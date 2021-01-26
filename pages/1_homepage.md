@@ -56,7 +56,7 @@ permalink: /homepage/
 
 #### 2020
 
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Ring-Oscillator Implementation for Monitoring the Aging State of Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC2020)*. Jul. 2020.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Ring-Oscillator Implementation for Monitoring the Aging State of Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (ITC-CSCC2020)*, Jul. 2020.
 
 - **Xihong ZHOU**, Senling WANG, Yoshinobu HIGAMI, Hiroshi TAKAHASHI, Masayuki SATO, Mitsunori KATSU, Shoichi SEKIGUCHI, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf) *in 30th Microelectronics Symposium (MES2020)*, Sep. 2020.
 
