@@ -63,7 +63,7 @@ permalink: /homepage/
 
 #### 2019
 
-- 阿部 寛人, 畝山 勇一朗, 中岡 典弘, 渡辺 友希, 福本 真也, 森田 航平, 中本 裕大, 周 細紅, 河野 靖, 木下 浩二, 一色 正晴, 二宮 崇, 田村 晃裕, 甲斐 博, 高橋 寛, 王 森レイ, ["Raspberry Piを用いた画像処理とCNNによる微小害虫の計数システムの構築,"](https://xihongzhou.github.io/papers/Conferences/Japan/2018_SJCIEE_Abe.pdf) *令和元年度電気関係学会四国支部連合大会論文集（CD-ROM)*, 2019.
+- 阿部 寛人, 畝山 勇一朗, 中岡 典弘, 渡辺 友希, 福本 真也, 森田 航平, 中本 裕大, 周 細紅, 河野 靖, 木下 浩二, 一色 正晴, 二宮 崇, 田村 晃裕, 甲斐 博, 高橋 寛, 王 森レイ, ["Raspberry Piを用いた画像処理とCNNによる微小害虫の計数システムの構築,"](https://xihongzhou.github.io/papers/Conferences/Japan/2019_SJCIEE_Abe.pdf) *令和元年度電気関係学会四国支部連合大会論文集（CD-ROM)*, 2019.
 
 #### 2018
 
