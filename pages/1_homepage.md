@@ -78,8 +78,8 @@ permalink: /homepage/
 
 - Award of Excellent B.E. Thesis in BeiHua University, 2016
 - Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”, 2016
-- National Undergraduate Innovation and Entrepreneurship Training Program,　2016
-- 2nd Prize in Final Contest in National Undergraduate Electronic Design Contest,2015
+- National Undergraduate Innovation and Entrepreneurship Training Program, 2016
+- 2nd Prize in Final Contest in National Undergraduate Electronic Design Contest, 2015
 - 3rd prize in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition,2015
 - 3rd Prize in Final Contest in National Undergraduate IoT Design Contest, 2015
 - 3rd Prize in Final Contest in National Undergraduate IoT Design Contest, 2015
@@ -94,7 +94,7 @@ permalink: /homepage/
 - Grand Prize in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition,2015
 - Selected as the top ten college students of the School of Electrical Information Engineering, 2015
 - Bronze Award in "Chuang Qing Chun" National Entrepreneurship Competition, 2014
-- 2nd Prize in Jilin Province Undergraduate Electronic Design Contest,2014
+- 2nd Prize in Jilin Province Undergraduate Electronic Design Contest, 2014
 - 2nd Prize The First National Undergraduate IoT Design Contest (TI Cup), 2014
 ## Talks
 
