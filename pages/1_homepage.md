@@ -46,7 +46,7 @@ permalink: /homepage/
 
 ---
 
-- myNews
+- No news
 
 
 
