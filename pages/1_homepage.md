@@ -92,7 +92,7 @@ permalink: /homepage/
 - 3nd prize in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition, 2015
 - BeiHua University Undergraduate Innovation and Entrepreneurship Training Program, 2015
 - Grand Prize in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition, 2015
-- Selected as a science and technology pacesetter by "The First Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”, 2015
+- Selected as a Science and Technology Pacesetter by "The First Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”, 2015
 - Bronze Award in "Chuang Qing Chun" National Entrepreneurship Competition, 2014
 - 2nd Prize in Jilin Province Undergraduate Electronic Design Contest, 2014
 - 2nd Prize The First National Undergraduate IoT Design Contest (TI Cup), 2014
