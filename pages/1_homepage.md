@@ -56,7 +56,7 @@ permalink: /homepage/
 
 #### 2020
 
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Ring-Oscillator Implementation for Monitoring the Aging State of Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
 
 - **Xihong ZHOU**, Senling WANG, Yoshinobu HIGAMI, Hiroshi TAKAHASHI, Masayuki SATO, Mitsunori KATSU, Shoichi SEKIGUCHI, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf) *in 30th Microelectronics Symposium (**MES**)*, Sep. 2020.
 
@@ -78,8 +78,12 @@ permalink: /homepage/
 
 
 
-## Presentations
+## Talks
 
 ---
 
+|18/09/2020|"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |Osaka, Japan (Online Conference)
+|05/07/2020|"TAging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |Nagoya, Japan (Online Conference)
+|04/03/2020|"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. |横浜, 日本 (オンライン会議)
+|22/09/2018|"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*. |松山, 日本
 
