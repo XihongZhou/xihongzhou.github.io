@@ -344,13 +344,12 @@ blockquote:last-child {
 .page-content table tr td{
 	padding: 6px 10px;
 	vertical-align: top;
-	/* text-align: justify; */
 
 }
 .page-content table tr td:first-of-type{
 	padding: 6px 10px 6px 10px;
 	border-right: 1px dashed #ddd; 
-	/* text-align: right; */
+	text-align: right;
 }
 
 /**
