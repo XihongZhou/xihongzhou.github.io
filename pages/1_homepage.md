@@ -86,8 +86,8 @@ permalink: /homepage/
 - 3rd Prize in the 8th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction,2015
 - Grand Prize in Northeastern China Division in National Undergraduate IoT Design Contest, 2015
 - First Prize in Northeastern China Division in National Undergraduate IoT Design Contest, 2015
-- Grand Prize in ”Challenge Cup” Jilin Province Undergraduate Extracurricular Academic Technology Works Competition,2015
-- First Prize in Jilin Province in Final Contest in National Undergraduate Electronic Design Contest,2015
+- Grand Prize in ”Challenge Cup” Jilin Province Undergraduate Extracurricular Academic Technology Works Competition, 2015
+- First Prize in Jilin Province in Final Contest in National Undergraduate Electronic Design Contest, 2015
 - 2nd prize in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition, 2015
 - 3nd prize in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition, 2015
 - BeiHua University Undergraduate Innovation and Entrepreneurship Training Program, 2015
