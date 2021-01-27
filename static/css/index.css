@@ -344,7 +344,6 @@ blockquote:last-child {
 .page-content table tr td{
 	padding: 6px 10px;
 	vertical-align: top;
-
 }
 .page-content table tr td:first-of-type{
 	padding: 6px 10px 6px 10px;
