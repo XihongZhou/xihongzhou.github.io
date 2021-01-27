@@ -81,9 +81,9 @@ permalink: /homepage/
 ## Talks
 
 ---
-
+<p align = "justify"> 
 |18/09/2020|"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |Osaka, Japan
 |05/07/2020|"TAging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |Nagoya, Japan
 |04/03/2020|"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. |横浜, 日本
 |22/09/2018|"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*. |松山, 日本
-
+</p>
