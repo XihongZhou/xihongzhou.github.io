@@ -76,8 +76,8 @@ permalink: /homepage/
 
 ---
 
-- “GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”,ZL201520324142.3, CHINA
-- “An Intelligent Community Environment Detection System based on Wireless Sensor Network”,ZL201420830564.3, CHINA
+- “GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA
+- “An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA
 - “A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA
 
 ## Awards and Honors
