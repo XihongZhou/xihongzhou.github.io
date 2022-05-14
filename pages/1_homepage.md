@@ -56,17 +56,17 @@ permalink: /homepage/
 
 #### 2021
 
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,"](https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf) *in 22nd IEEE Workshop on RTL and High Level Testing (**WRTLT**)*, Jul. 2021.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,"](https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf) *in 22nd IEEE Workshop on RTL and High Level Testing (**WRTLT**)*, Nov. 2021.
 
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, Mitsunori Katsu, Shoichi Sekiguchi, ["MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2021.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, Mitsunori Katsu, Shoichi Sekiguchi, ["MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jun. 2021.
 
 #### 2020
 
+- **Xihong ZHOU**, Senling WANG, Yoshinobu HIGAMI, Hiroshi TAKAHASHI, Masayuki SATO, Mitsunori KATSU, Shoichi SEKIGUCHI, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf) *in 30th Microelectronics Symposium (**MES**)*, Sep. 2020.
+  
 - **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
 
-- **Xihong ZHOU**, Senling WANG, Yoshinobu HIGAMI, Hiroshi TAKAHASHI, Masayuki SATO, Mitsunori KATSU, Shoichi SEKIGUCHI, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf) *in 30th Microelectronics Symposium (**MES**)*, Sep. 2020.
-
-- **周 細紅**, 王 森レイ, 樋上 喜信, 高橋 寛, ["メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装,"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_JIEP_zhou.pdf) *第34回エレクトロニクス実装学会春季講演大会講演集 (**JIEP**)*, 2020.
+- **周 細紅**, 王 森レイ, 樋上 喜信, 高橋 寛, ["メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装,"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_JIEP_zhou.pdf) *第34回エレクトロニクス実装学会春季講演大会講演集 (**JIEP**)*, Mar. 2020.
 
 - 青野智己, 中岡典弘, **周 細紅**, 王 森レイ, 樋上喜信, 高橋 寛, 岩田浩幸, 前田洋一, 松嶋 潤, ["マルチサイクルテストにおける故障検出強化のためのテストポイント挿入法,"](https://xihongzhou.github.io/papers/Conferences/Japan/2019_DC_Aono.pdf) *電子情報通信学会技術研究報告 (**IEICE-DC**)*, vol. 119, no. 420, pp. 19-24, Feb. 2020.
 
