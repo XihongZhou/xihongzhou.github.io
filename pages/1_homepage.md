@@ -54,6 +54,12 @@ permalink: /homepage/
 
 ---
 
+#### 2021
+
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,"](https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf) *in 22nd IEEE Workshop on RTL and High Level Testing (**WRTLT**)*, Jul. 2021.
+
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, Mitsunori Katsu, Shoichi Sekiguchi, ["MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2021.
+
 #### 2020
 
 - **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
