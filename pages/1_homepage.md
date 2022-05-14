@@ -78,14 +78,6 @@ permalink: /homepage/
 
 - **周 細紅**, 王 森レイ, 高橋 寛, ["サウンドコード技術を利用した電気錠システムの開発,"](https://xihongzhou.github.io/papers/Conferences/Japan/2018_SJCIEE_zhou.pdf) *電気関係学会四国支部連合大会 (**SJCIEE**)*, 2018.
 
-## Patents
-
----
-
-- “GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA
-- “An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA
-- “A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA
-
 ## Awards and Honors
 
 ---
@@ -110,6 +102,14 @@ permalink: /homepage/
 - Bronze Award in "Chuang Qing Chun" National Entrepreneurship Competition, 2014
 - 2nd Prize in Jilin Province Undergraduate Electronic Design Contest, 2014
 - 2nd Prize The First National Undergraduate IoT Design Contest (TI Cup), 2014
+
+## Patents
+
+---
+
+- “GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA
+- “An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA
+- “A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA
 
 ## Talks
 
