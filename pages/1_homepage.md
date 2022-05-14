@@ -16,7 +16,7 @@ permalink: /homepage/
 
 <div class="row">
   <div class="col-sm-4">
-    <img border="0" src="https://xihongzhou.github.io/images/zhou.jpg" height="70%" width="70%">
+    <img border="0" src="https://xihongzhou.github.io/images/face_photo/一寸-25×35mm-77535640.jpg" height="70%" width="70%">
   </div>
 
   <div id="biography" class="col-sm-8">
