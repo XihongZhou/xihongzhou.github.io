@@ -58,13 +58,13 @@ permalink: /homepage/
 
 - **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,"](https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf) *in 22nd IEEE Workshop on RTL and High Level Testing (**WRTLT**)*, Nov. 2021.
 
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, Mitsunori Katsu, Shoichi Sekiguchi, ["MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jun. 2021.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, Mitsunori Katsu, Shoichi Sekiguchi, ["MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf) *in 36th International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jun. 2021.
 
 #### 2020
 
 - **Xihong ZHOU**, Senling WANG, Yoshinobu HIGAMI, Hiroshi TAKAHASHI, Masayuki SATO, Mitsunori KATSU, Shoichi SEKIGUCHI, ["Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf) *in 30th Microelectronics Symposium (**MES**)*, Sep. 2020.
   
-- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
+- **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),"](https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf) *in 35th International Technical Conference on Circuits, Systems, Computers, and Communications (**ITC-CSCC**)*, Jul. 2020.
 
 - **周 細紅**, 王 森レイ, 樋上 喜信, 高橋 寛, ["メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装,"](https://xihongzhou.github.io/papers/Conferences/Japan/2020_JIEP_zhou.pdf) *第34回エレクトロニクス実装学会春季講演大会講演集 (**JIEP**)*, Mar. 2020.
 
@@ -114,7 +114,8 @@ permalink: /homepage/
 ## Talks
 
 ---
-
+|25/11/2020 |" Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |<span style="color:green">Matsuyam,<br>Japan</span>
+|28/06/2020 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |<span style="color:green">Jeju,<br>Korea</span>
 |18/09/2020 |"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |<span style="color:green">Osaka,<br>Japan</span>
 |05/07/2020 |"Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |<span style="color:green">Nagoya,<br>Japan</span>
 |04/03/2020 |"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. |<span style="color:green">横浜,<br>日本</span>
