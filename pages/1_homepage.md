@@ -56,7 +56,7 @@ permalink: /homepage/
 
 #### 2022
 
-- Senling Wang, **Xihong Zhou**, Yoshinobu Higami, Hiroshi Takahashi, Hiroyuki Iwata, Yoichi Maeda, Jun Matsushima, ["Test Point Insertion for Multi-Cycle Power-On Self-Test,"](https://dl.acm.org/doi/10.1145/3563552) *ACM Transactions on Design Automation of Electronic Systems (**WRTLT**)*, sep. 2022.
+- Senling Wang, **Xihong Zhou**, Yoshinobu Higami, Hiroshi Takahashi, Hiroyuki Iwata, Yoichi Maeda, Jun Matsushima, ["Test Point Insertion for Multi-Cycle Power-On Self-Test,"](https://dl.acm.org/doi/10.1145/3563552) *ACM Transactions on Design Automation of Electronic Systems (**ACM TODES**)*, sep. 2022.
 
 #### 2021
 
