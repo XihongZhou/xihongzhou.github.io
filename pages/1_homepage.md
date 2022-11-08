@@ -54,6 +54,10 @@ permalink: /homepage/
 
 ---
 
+#### 2022
+
+- Senling Wang, **Xihong Zhou**, Yoshinobu Higami, Hiroshi Takahashi, Hiroyuki Iwata, Yoichi Maeda, Jun Matsushima, ["Test Point Insertion for Multi-Cycle Power-On Self-Test,"](https://dl.acm.org/doi/10.1145/3563552) *ACM Transactions on Design Automation of Electronic Systems (**WRTLT**)*, sep. 2022.
+
 #### 2021
 
 - **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,"](https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf) *in 22nd IEEE Workshop on RTL and High Level Testing (**WRTLT**)*, Nov. 2021.
@@ -115,7 +119,7 @@ permalink: /homepage/
 
 ---
 
-|25/11/2020 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. |<span style="color:green">Matsuyam,<br>Japan</span>
+|25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. |<span style="color:green">Matsuyam,<br>Japan</span>
 |28/06/2020 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. |<span style="color:green">Jeju,<br>Korea</span>
 |18/09/2020 |"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |<span style="color:green">Osaka,<br>Japan</span>
 |05/07/2020 |"Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |<span style="color:green">Nagoya,<br>Japan</span>
