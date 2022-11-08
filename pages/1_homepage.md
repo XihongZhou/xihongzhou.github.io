@@ -120,7 +120,7 @@ permalink: /homepage/
 ---
 
 |25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. |<span style="color:green">Matsuyam,<br>Japan</span>
-|28/06/2020 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. |<span style="color:green">Jeju,<br>Korea</span>
+|28/06/2021 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. |<span style="color:green">Jeju,<br>Korea</span>
 |18/09/2020 |"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. |<span style="color:green">Osaka,<br>Japan</span>
 |05/07/2020 |"Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. |<span style="color:green">Nagoya,<br>Japan</span>
 |04/03/2020 |"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. |<span style="color:green">横浜,<br>日本</span>
