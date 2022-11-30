@@ -36,8 +36,7 @@ permalink: /homepage/
 <p align="justify" style="margin-bottom: 0.5em">
 <font size="3"><b>Brief Biography:</b></font>
 <font size="3.0">
-  Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Department of Computer Science, Ehime University, Japan, in 2019. 
-  Currently, he is a third year PhD student majoring in Electrical and Electronic Engineering and Computer Science in the Graduate School of Science and Engineering, Ehime University, Japan. His research interest includes Design (for High-Performance, Power-Consumption) and Test (for Reliability/Dependable: Testing, Diagnosis and Deisign-for-Testability) of Computers (VLSI Circuits, In-memory Computing Devices, Reconfigurable/Programmable Devices, AI/IoT Edge Computing Devices).
+  Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Computer Science in the Graduate School of Science and Engineering, Ehime University, Japan, in 2019. Currently, he is a third-year Ph.D. student majoring in computer science at the Graduate School of Science and Engineering, Ehime University, Japan. His research interest includes Design (for High-Performance, Power-Consumption) and Test (for Reliability/Dependable: Testing, Diagnosis, and Design-for-Testability) of Computers (VLSI Circuits, In-memory Computing Devices, Reconfigurable/Programmable Devices, AI/IoT Edge Computing Devices).
 </font>
 </p> 
 <hr>
