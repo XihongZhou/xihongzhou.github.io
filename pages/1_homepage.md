@@ -103,7 +103,7 @@ permalink: /homepage/
 - 2015-05, **2nd prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(2P).jpg)
 - 2015-05, **3nd prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(3P).jpg)
 - 2015-05, **Excellent prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(EP)(1).jpg)
-- 2015-05, **Excellent prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(3P)(2).jpg)
+- 2015-05, **Excellent prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(EP)(2).jpg)
 - 2015-04, **Grand Prize** *in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-04_BHU_EATWC_(GP).jpg)
 - 2014-11, **Bronze Award** *in "Chuang Qing Chun" National Entrepreneurship Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
 - 2014-10, **2nd Prize** *in Jilin Province Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-10_PU_EDC_(2P).jpg)
