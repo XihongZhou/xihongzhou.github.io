@@ -89,7 +89,7 @@ permalink: /homepage/
 - Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”, 2016
 - National Undergraduate Innovation and Entrepreneurship Training Program, 2016 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
 - 2nd Prize in Final Contest in National Undergraduate Electronic Design Contest, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-12_NU_EDC.jpg)
-- 3rd prize in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition,2015
+- 3rd prize in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition,2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg
 - 3rd Prize in Final Contest in National Undergraduate IoT Design Contest, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(1).jpg)
 - 3rd Prize in Final Contest in National Undergraduate IoT Design Contest, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(2).jpg)
 - 3rd Prize in the 8th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction,2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NUS_SPSC_ESER.jpg)
