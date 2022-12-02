@@ -85,6 +85,7 @@ permalink: /homepage/
 
 ---
 
+<font size="2.0">
 - 2016-06, **Award of Excellent B.E. Thesis** *in BeiHua University* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
 - 2016-06, **Excellent College Student** *Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”*
 - 2016-06, **Award certificate** *in National Undergraduate Innovation and Entrepreneurship Training Program* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
@@ -108,6 +109,7 @@ permalink: /homepage/
 - 2014-11, **Bronze Award** *in "Chuang Qing Chun" National Entrepreneurship Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
 - 2014-10, **2nd Prize** *in Jilin Province Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-10_PU_EDC_(2P).jpg)
 - 2014-08, **2nd Prize** *in The First National Undergraduate IoT Design Contest (TI Cup)* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-08_NU_IoT_DC_(2P_NCD).jpg)
+</font>
 
 ## Patents
 
