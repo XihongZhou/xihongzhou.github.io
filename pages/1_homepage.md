@@ -120,6 +120,7 @@ permalink: /homepage/
 ## Talks
 
 ---
+<font size="2">
 
 |23/11/2022 |"Study on the High Reliability of MPLD (Memory-based Programmable Logic Device)", *Presentation in ATS-2022, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award*. |<span style="color:green">Taichung,<br>Taiwan</span>
 |25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. |<span style="color:green">Matsuyam,<br>Japan</span>
@@ -129,3 +130,4 @@ permalink: /homepage/
 |04/03/2020 |"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. |<span style="color:green">横浜,<br>日本</span>
 |22/09/2018 |"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*. |<span style="color:green">松山,<br>日本</span>
 
+</font>
