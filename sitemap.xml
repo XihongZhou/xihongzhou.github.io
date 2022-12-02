@@ -1,142 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://xihongzhou.github.io/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>1.00</priority>
+  <priority>1.0</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/homepage/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/project/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/index.html</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test9/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test8/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test7/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test6/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test5/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test4/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test3/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test2/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test12/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test11/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/20/test10/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/17/MRLD-Tesing/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/2020/11/17/FPGA/</loc>
-  <lastmod>2022-12-01T08:18:08+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.8</priority>
+  <lastmod>2022-12-02T13:50:32+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Journals/2022-09-13_ACM-TODES.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/International/2021-11-25-WRTLT_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/International/2021-06-28-ITC-CSCC_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/Japan/2020_MES_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/International/2020_ITC-CSCC_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/Japan/2020_JIEP_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/Japan/2019_DC_Aono.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/Japan/2019_SJCIEE_Abe.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
 <url>
   <loc>https://xihongzhou.github.io/papers/Conferences/Japan/2018_SJCIEE_zhou.pdf</loc>
-  <lastmod>2022-12-01T08:18:04+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.7</priority>
+  <lastmod>2022-12-02T13:50:28+09:00</lastmod>
 </url>
-
 
 </urlset>
