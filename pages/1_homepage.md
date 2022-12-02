@@ -86,11 +86,11 @@ permalink: /homepage/
 ---
 
 - 2016-06, **<font size="2">Award of Excellent B.E. Thesis</font>** *<font size="2">in BeiHua University</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
-- 2016-06, **<font size="2">Excellent College Student</font>** *<font size="2">Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”</font>*
+- 2016-06, **<font size="2">Excellent College Student</font>** *<font size="2">Selected by “The 9th Top-100 Excellent College Students Selection of Jilin Province”</font>*
 - 2016-06, **<font size="2">Award certificate</font>** *<font size="2">in National Undergraduate Innovation and Entrepreneurship Training Program</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
 - 2015-12, **<font size="2">2nd Prize</font>** *<font size="2">in Final Contest in National Undergraduate Electronic Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-12_NU_EDC.jpg)
-- 2015-11, **<font size="2">3rd prize</font>** *<font size="2">in ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition</font>* [*<font size="1">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg)
-- 2015-10, **<font size="2">Science and Technology Pacesetter</font>** *<font size="2">Selected by "The 1st Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-10-17_BHU_Top10_ECS.jpg)
+- 2015-11, **<font size="2">3rd prize</font>** *<font size="2">in “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition</font>* [*<font size="1">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg)
+- 2015-10, **<font size="2">Science and Technology Pacesetter</font>** *<font size="2">Selected by “The 1st Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-10-17_BHU_Top10_ECS.jpg)
 - 2015-09, **<font size="2">3rd Prize</font>** *<font size="2">in Final Contest in National Undergraduate IoT Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(1).jpg)
 - 2015-09, **<font size="2">3rd Prize</font>** *<font size="2">in Final Contest in National Undergraduate IoT Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(2).jpg)
 - 2015-08, **<font size="2">3rd Prize</font>** *<font size="2">in National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction</font>* [*<font size="1">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-08_NUS_SPSC_ESER.jpg)
@@ -99,13 +99,13 @@ permalink: /homepage/
 - 2015-08, **<font size="2">1st Prize</font>** *<font size="2">in Jilin Province in Final Contest in National Undergraduate Electronic Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-08_NU_EDC_(FP_JP).jpg)
 - 2015-06, **<font size="2">Award certificate</font>** *<font size="2">in BeiHua University Undergraduate Innovation and Entrepreneurship Training Program</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-06_BHU_IETP.jpg)
 - 2015-06, **<font size="2">Excellent Prize</font>** *<font size="2">in China Youth APP Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-06-06_APP_(EP).jpg)
-- 2015-05, **<font size="2">Grand Prize</font>** *<font size="2">in ”Challenge Cup” Jilin Province Undergraduate Extracurricular Academic Technology Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05_PU_EATWC_(GP).jpg)
+- 2015-05, **<font size="2">Grand Prize</font>** *<font size="2">in “Challenge Cup” Jilin Province Undergraduate Extracurricular Academic Technology Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05_PU_EATWC_(GP).jpg)
 - 2015-05, **<font size="2">2nd prize</font>** *<font size="2">in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(2P).jpg)
 - 2015-05, **<font size="2">3nd prize</font>** *<font size="2">in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(3P).jpg)
 - 2015-05, **<font size="2">Excellent prize</font>** *<font size="2">in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(EP)(1).jpg)
 - 2015-05, **<font size="2">Excellent prize</font>** *<font size="2">in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(EP)(2).jpg)
 - 2015-04, **<font size="2">Grand Prize</font>** *<font size="2">in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition</font>* [*<font size="1">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-04_BHU_EATWC_(GP).jpg)
-- 2014-11, **<font size="2">Bronze Award</font>** *<font size="2">in "Chuang Qing Chun" National Entrepreneurship Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
+- 2014-11, **<font size="2">Bronze Award</font>** *<font size="2">in “Chuang Qing Chun” National Entrepreneurship Competition</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
 - 2014-10, **<font size="2">2nd Prize</font>** *<font size="2">in Jilin Province Undergraduate Electronic Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2014-10_PU_EDC_(2P).jpg)
 - 2014-08, **<font size="2">2nd Prize</font>** *<font size="2">in The First National Undergraduate IoT Design Contest (TI Cup)</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2014-08_NU_IoT_DC_(2P_NCD).jpg)
 
@@ -113,9 +113,9 @@ permalink: /homepage/
 
 ---
 
-- “GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA
-- “An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA
-- “A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA
+- <font size="3">“GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA</font>
+- <font size="3">“An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA</font>
+- <font size="3">“A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA</font>
 
 ## Talks
 
