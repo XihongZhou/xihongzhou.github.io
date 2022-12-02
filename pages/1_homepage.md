@@ -85,14 +85,14 @@ permalink: /homepage/
 
 ---
 
-- 2016-06, **Award of Excellent B.E. Thesis** *in BeiHua University* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
+- 2016-06, **<font size="2">Award of Excellent B.E. Thesis</font>** *<font size="2">in BeiHua University</font>* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
 - 2016-06, **Excellent College Student** *Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”*
 - 2016-06, **Award certificate** *in National Undergraduate Innovation and Entrepreneurship Training Program* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
 - 2015-12, **2nd Prize** *in Final Contest in National Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-12_NU_EDC.jpg)
 - 2015-11, **3rd prize** *in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg)
 - 2015-10, **Science and Technology Pacesetter** *Selected by "The First Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-10-17_BHU_Top10_ECS.jpg)
 - 2015-09, **3rd Prize** *in Final Contest in National Undergraduate IoT Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(1).jpg)
-- 2015-09, **3rd Prize** *in Final Contest in National Undergraduate IoT Design Contes*t* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(2).jpg)
+- 2015-09, **3rd Prize** *in Final Contest in National Undergraduate IoT Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-09_NU_IoT_DC_(2).jpg)
 - 2015-08, **3rd Prize** *in the 8th National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NUS_SPSC_ESER.jpg)
 - 2015-08, **Grand Prize** *in Northeastern China Division in National Undergraduate IoT Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NU_IoT_DC_(GP_NCD).jpg)
 - 2015-08, **1st Prize** *in Northeastern China Division in National Undergraduate IoT Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NU_IoT_DC_(FP_NCD).jpg)
