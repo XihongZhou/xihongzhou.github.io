@@ -85,8 +85,8 @@ permalink: /homepage/
 
 ---
 
-- 2016-06,<font size="3.0"> **Award of Excellent B.E. Thesis** *in BeiHua University* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)</font>
-- 2016-06,<font size="3.0"> **Excellent College Student** *Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”* </font>
+- 2016-06,<font size="2.0"> **Award of Excellent B.E. Thesis** *in BeiHua University* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)</font>
+- 2016-06,<font size="2.0"> **Excellent College Student** *Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”* </font>
 - 2016-06, **Award certificate** *in National Undergraduate Innovation and Entrepreneurship Training Program* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
 - 2015-12, **2nd Prize** *in Final Contest in National Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-12_NU_EDC.jpg)
 - 2015-11, **3rd prize** *in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg)
