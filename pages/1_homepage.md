@@ -100,7 +100,7 @@ permalink: /homepage/
 - 2nd prize in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(2P).jpg)
 - 3nd prize in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(3P).jpg)
 - BeiHua University Undergraduate Innovation and Entrepreneurship Training Program, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-06_BHU_IETP.jpg)
-- Grand Prize in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05_BHU_EATWC_(GP).jpg)
+- Grand Prize in ”Challenge Cup” BeiHua University Undergraduate Extracurricular Academic Technology Works Competition, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-04_BHU_EATWC_(GP).jpg)
 - Selected as a Science and Technology Pacesetter by "The First Top-10 Excellent College Students Selection of the School of Electrical Information Engineering, BeiHua University”, 2015 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-10-17_BHU_Top10_ECS.jpg)
 - Bronze Award in "Chuang Qing Chun" National Entrepreneurship Competition, 2014 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
 - 2nd Prize in Jilin Province Undergraduate Electronic Design Contest, 2014 [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-10_PU_EDC_(2P).jpg)
