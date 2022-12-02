@@ -85,9 +85,9 @@ permalink: /homepage/
 
 ---
 
-- Award of Excellent B.E. Thesis in BeiHua University, 2016 ["Certificate"](https://xihongzhou.github.io/images/Certificate/2016-06-30_Excellent_B.E._Thesis_BeiHua_University.jpg)
-- Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”, 2016 ["Certificate"](https://xihongzhou.github.io/images/Certificate/2015-10-17_Top-100_Excellent_College_Students_Jili_Provincejpg)
-- National Undergraduate Innovation and Entrepreneurship Training Program, 2016  2016 ["Certificate"](https://xihongzhou.github.io/images/Certificate/2016-06_National_Undergraduate_Innovation_Entrepreneurship_Training_Program.jpg)
+- Award of Excellent B.E. Thesis in BeiHua University, 2016 [[Certificate]](https://xihongzhou.github.io/images/Certificate/2016-06-30_Excellent_B.E._Thesis_BeiHua_University.jpg)
+- Selected by "The 9th Top-100 Excellent College Students Selection of Jilin Province”, 2016 [[Certificate]](https://xihongzhou.github.io/images/Certificate/2015-10-17_Top-100_Excellent_College_Students_Jili_Province.jpg)
+- National Undergraduate Innovation and Entrepreneurship Training Program, 2016  2016 [[Certificate]](https://xihongzhou.github.io/images/Certificate/2016-06_National_Undergraduate_Innovation_Entrepreneurship_Training_Program.jpg)
 - 2nd Prize in Final Contest in National Undergraduate Electronic Design Contest, 2015
 - 3rd prize in the 14th ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition,2015
 - 3rd Prize in Final Contest in National Undergraduate IoT Design Contest, 2015
