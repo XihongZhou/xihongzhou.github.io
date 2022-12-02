@@ -108,7 +108,6 @@ permalink: /homepage/
 - 2014-11, **Bronze Award** *in "Chuang Qing Chun" National Entrepreneurship Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-11_NEC_(Bronze).jpg)
 - 2014-10, **2nd Prize** *in Jilin Province Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-10_PU_EDC_(2P).jpg)
 - 2014-08, **2nd Prize** *in The First National Undergraduate IoT Design Contest (TI Cup)* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2014-08_NU_IoT_DC_(2P_NCD).jpg)
-
 ## Patents
 
 ---
