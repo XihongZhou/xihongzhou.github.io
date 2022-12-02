@@ -98,6 +98,7 @@ permalink: /homepage/
 - 2015-08, **1st Prize** *in Northeastern China Division in National Undergraduate IoT Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NU_IoT_DC_(FP_NCD).jpg)
 - 2015-08, **1st Prize** *in Jilin Province in Final Contest in National Undergraduate Electronic Design Contest* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-08_NU_EDC_(FP_JP).jpg)
 - 2015-06, **Award certificate** *in BeiHua University Undergraduate Innovation and Entrepreneurship Training Program* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-06_BHU_IETP.jpg)
+- 2015-06, **Excellent Prize** *in China Youth APP Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-06-06_APP_(EP).jpg)
 - 2015-05, **Grand Prize** *in ”Challenge Cup” Jilin Province Undergraduate Extracurricular Academic Technology Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05_PU_EATWC_(GP).jpg)
 - 2015-05, **2nd prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(2P).jpg)
 - 2015-05, **3nd prize** *in Jilin Province Undergraduate Environmental Innovation Science and Technical Works Competition* [*[Certificate]*](https://xihongzhou.github.io/images/Certificate/2015-05-16_PU_EISTWC_(3P).jpg)
