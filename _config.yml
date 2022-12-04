@@ -4,9 +4,7 @@ github_username: XihongZhou
 permalink: /:year/:month/:day/:title/
 viewsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/blob/gh-pages/
 newsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/new/gh-pages
-sitemap:
-  path: 
-    -  https://github.com/xihongzhou/xihongzhou.github.io/sitemap.xml
+sitemap: https://github.com/xihongzhou/xihongzhou.github.io/sitemap.xml
 # duoshuo_shortname: xihongzhou
 # duoshuo_url: "http://xihongzhou.duoshuo.com"
 # disqus_shortname: xihongzhou
