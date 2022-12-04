@@ -6,7 +6,7 @@ viewsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/blob/gh-pages
 newsourceroot: https://github.com/xihongzhou/xihongzhou.github.io/new/gh-pages
 sitemap:
   path: 
-    - sitemap.xml
+    -  https://github.com/xihongzhou/xihongzhou.github.io/sitemap.xml
 # duoshuo_shortname: xihongzhou
 # duoshuo_url: "http://xihongzhou.duoshuo.com"
 # disqus_shortname: xihongzhou
