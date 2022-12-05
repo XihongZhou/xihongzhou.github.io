@@ -113,9 +113,11 @@ permalink: /homepage/
 
 ---
 
-- <font size="2">“GPS, GIS and GPRS based Remote Monitoring System for the Leakage Point of Gas Pipeline”, ZL201520324142.3, CHINA</font>
-- <font size="2">“An Intelligent Community Environment Detection System based on Wireless Sensor Network”, ZL201420830564.3, CHINA</font>
-- <font size="2">“A System of Dynamically Monitoring the Parameters of Human Physiological Signs based on ZigBee Technology”, ZL201420243834.0, CHINA</font>
+- <font size="2">“Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”, [CN204740486U](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2), CHINA</font>
+- <font size="2">“Based on ZigBee technology portable body sign information real-time acquisition system”, [CN204158370U](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2), CHINA</font>
+- <font size="2">“Based on the Intelligent Community environmental monitoring system of wireless sensor network”, [CN204516010U](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2), CHINA</font>
+- <font size="2">“PM2.5 negative ion air purification testing machine based on Zigbee network”, [CN104900033A](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1), CHINA</font>
+- <font size="2">“Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology”, [CN104794862A](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2), CHINA</font>
 
 ## Talks
 
