@@ -85,8 +85,8 @@ permalink: /homepage/
 
 ---
 
-1- 2016-06, **<font size="2">Award of Excellent B.E. Thesis</font>** *<font size="2">in BeiHua University</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
-2- 2016-06, **<font size="2">Excellent College Student</font>** *<font size="2">Selected by “The 9th Top-100 Excellent College Students Selection of Jilin Province”</font>*
+- 1. 2016-06, **<font size="2">Award of Excellent B.E. Thesis</font>** *<font size="2">in BeiHua University</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2016-06-30_E_B.E_T_BHU.jpg)
+- 2. 2016-06, **<font size="2">Excellent College Student</font>** *<font size="2">Selected by “The 9th Top-100 Excellent College Students Selection of Jilin Province”</font>*
 - 2016-06, **<font size="2">Award certificate</font>** *<font size="2">in National Undergraduate Innovation and Entrepreneurship Training Program</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2016-06_NU_IETP.jpg)
 - 2015-12, **<font size="2">2nd Prize</font>** *<font size="2">in Final Contest in National Undergraduate Electronic Design Contest</font>* [*<font size="2">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-12_NU_EDC.jpg)
 - 2015-11, **<font size="2">3rd prize</font>** *<font size="2">in “Challenge Cup” National Undergraduate Extracurricular Academic Science and Technical Works Competition</font>* [*<font size="1">[Certificate]</font>*](https://xihongzhou.github.io/images/Certificate/2015-11_NU_EACTWC_(3P).jpg)
@@ -113,11 +113,11 @@ permalink: /homepage/
 
 ---
 
--1 2015, <font size="2">“Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”,</font> [*<font size="2">CN204740486U</font>*](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
--2 2015, <font size="2">“Based on the Intelligent Community environmental monitoring system of wireless sensor network”,</font> [*<font size="2">CN204516010U</font>*](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)*<font size="2">, CHINA</font>*
--3 2015, <font size="2">“PM2.5 negative ion air purification testing machine based on Zigbee network”,</font> [*<font size="2">CN104900033A</font>*](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)*<font size="2">, CHINA</font>*
--4 2015, <font size="2">“Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology”,</font> [*<font size="2">CN104794862A</font>*](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
--5 2014, <font size="2">“Based on ZigBee technology portable body sign information real-time acquisition system”,</font> [*<font size="2">CN204158370UA</font>*](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
+- 1. 2015, <font size="2">“Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”,</font> [*<font size="2">CN204740486U</font>*](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
+- 2. 2015, <font size="2">“Based on the Intelligent Community environmental monitoring system of wireless sensor network”,</font> [*<font size="2">CN204516010U</font>*](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)*<font size="2">, CHINA</font>*
+- 3. 2015, <font size="2">“PM2.5 negative ion air purification testing machine based on Zigbee network”,</font> [*<font size="2">CN104900033A</font>*](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)*<font size="2">, CHINA</font>*
+- 4. 2015, <font size="2">“Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology”,</font> [*<font size="2">CN104794862A</font>*](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
+- 5. 2014, <font size="2">“Based on ZigBee technology portable body sign information real-time acquisition system”,</font> [*<font size="2">CN204158370UA</font>*](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
 
 ## Talks
 
