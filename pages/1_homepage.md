@@ -113,11 +113,11 @@ permalink: /homepage/
 
 ---
 
-- <font size="2">2015, “Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system,”</font>[<font size="2">CN204740486U</font>](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
-- <font size="2">2015, “Based on the Intelligent Community environmental monitoring system of wireless sensor network,”</font>[<font size="2">CN204516010U</font>](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)<font size="2">, CHINA</font>
-- <font size="2">2015, “PM2.5 negative ion air purification testing machine based on Zigbee network,”</font>[<font size="2">CN104900033A</font>](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)<font size="2">, CHINA</font>
-- <font size="2">2015, “Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology,”</font>[<font size="2">CN104794862A</font>](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
-- <font size="2">2014, “Based on ZigBee technology portable body sign information real-time acquisition system,”</font>[<font size="2">CN204158370U</font>](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
+- <font size="2">2015, “Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”, </font>[<font size="2">CN204740486U</font>](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
+- <font size="2">2015, “Based on the Intelligent Community environmental monitoring system of wireless sensor network”, </font>[<font size="2">CN204516010U</font>](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)<font size="2">, CHINA</font>
+- <font size="2">2015, “PM2.5 negative ion air purification testing machine based on Zigbee network”, </font>[<font size="2">CN104900033A</font>](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)<font size="2">, CHINA</font>
+- <font size="2">2015, “Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology”, </font>[<font size="2">CN104794862A</font>](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
+- <font size="2">2014, “Based on ZigBee technology portable body sign information real-time acquisition system”, </font>[<font size="2">CN204158370U</font>](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)<font size="2">, CHINA</font>
 
 ## Talks
 
