@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage
+title: Xihong Zhou
 comments: true
 permalink: /homepage/
 
