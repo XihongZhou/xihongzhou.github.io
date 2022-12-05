@@ -112,6 +112,7 @@ permalink: /homepage/
 ## Patents
 
 ---
+
 <font color='red'>
 
 1. 2015, <font size="2">“Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”,</font> [*<font size="2">CN204740486U</font>*](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*<font size="2">, CHINA</font>*
