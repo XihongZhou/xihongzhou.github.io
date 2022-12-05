@@ -258,7 +258,7 @@ footer .point{
  */
 .post{
 	padding:10px 30px;
-	font-size: 2em;
+	font-size: "2";
 	line-height: 1.5;
 	/* -webkit-text-size-adjust: 100%; */
 }
