@@ -128,3 +128,5 @@ permalink: /homepage/
 |21/08/2019 |"Application for Doctoral Program", *in the Graduate School of Science and Engineering,Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2019-08-21_Application-for-Doctoral-Program_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
 |22/09/2018 |"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*.  [[Slides]](https://xihongzhou.github.io/talks/2018-09-22_SJCIEE_zhou[Sildes].pdf)|<span style="color:green">松山,<br>日本</span>
 |14/11/2016 |"Self introduction of my B.S. researches", *Computer System Lab. (Takahashi Lab.), Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2016-11-14_Self-Introduction_of_B.S._Researches_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4"></script>
