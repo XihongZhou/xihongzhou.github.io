@@ -24,7 +24,7 @@ permalink: /homepage/
     <p>
     <font size="4">PhD student<br>
       <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory (Takahashi Lab.)</a><br>
-      <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Department of Computer Science</a><br>
+      <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Computer Science Course</a><br>
       <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_en.html">Electrical and Electronic Engineering and Computer Science</a><br>
       <a href="https://www.ehime-u.ac.jp/en/education/graduate-school-of-science-and-engineering/">Graduate School Of Science and Engineering</a><br>
       <a href="https://www.ehime-u.ac.jp/en/">Ehime University</a><br>
