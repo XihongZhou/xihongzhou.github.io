@@ -22,7 +22,7 @@ permalink: /homepage/
   <div id="biography" class="col-sm-8">
     <span><font  size="6"><b>Xihong Zhou</b></font></span>
     <p>
-    <font size="4">PhD student<br>
+    <font size="4">Ph.D. student<br>
       <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory (Takahashi Lab.)</a><br>
       <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Computer Science Course</a><br>
       <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_en.html">Electrical and Electronic Engineering and Computer Science</a><br>
