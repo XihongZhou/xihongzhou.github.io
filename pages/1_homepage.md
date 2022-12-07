@@ -111,25 +111,25 @@ permalink: /homepage/
 
 ---
 
-+ 2015, “Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system”,[*CN204740486U*](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA*
-+ 2015, “Based on the Intelligent Community environmental monitoring system of wireless sensor network”,[*CN204516010U*](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)*, CHINA*
-+ 2015, “PM2.5 negative ion air purification testing machine based on Zigbee network”,[*CN104900033A*](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)*, CHINA* 
-+ 2015, “Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology”,[*CN104794862A*](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA* 
-+ 2014, “Based on ZigBee technology portable body sign information real-time acquisition system”,[*CN204158370UA*](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA* 
++ 2015, “Based on GPS, GIS, GPRS pipeline leaking point remote monitoring system,” [*CN204740486U*](https://patents.google.com/patent/CN204740486U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA*
++ 2015, “Based on the Intelligent Community environmental monitoring system of wireless sensor network,” [*CN204516010U*](https://patents.google.com/patent/CN204516010U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=2)*, CHINA*
++ 2015, “PM2.5 negative ion air purification testing machine based on Zigbee network,” [*CN104900033A*](https://patents.google.com/patent/CN104900033A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2&page=1)*, CHINA* 
++ 2015, “Natural gas pipeline real-time monitoring system based on Zigbee wireless communication technology,” [*CN104794862A*](https://patents.google.com/patent/CN104794862A/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA* 
++ 2014, “Based on ZigBee technology portable body sign information real-time acquisition system,” [*CN204158370UA*](https://patents.google.com/patent/CN204158370U/en?inventor=%E5%91%A8%E7%BB%86%E7%BA%A2)*, CHINA* 
 
 ## Talks
 
 ---
 
-|23/11/2022 |"Study on the High Reliability of MPLD (Memory-based Programmable Logic Device)", *Presentation in ATS-2022, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award*. [[Slides]](https://xihongzhou.github.io/talks/2022-11-23_ATS-Ph.D-Thesis-Competition_Zhou[Sildes].pdf) |<span style="color:green">Taichung,<br>Taiwan</span>
-|25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device", *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-11-25-WRTLT_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
-|28/06/2021 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-06-28-ITC-CSCC_zhou[Slides].pdf) |<span style="color:green">Jeju,<br>Korea</span>
-|18/09/2020 |"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in 30th Microelectronics Symposium (MES 2020)*. [[Slides]](https://xihongzhou.github.io/talks/2020-09-18_MES_zhou[Slides].pdf) |<span style="color:green">Osaka,<br>Japan</span>
-|05/07/2020 |"Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD)", *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. [[Slides]](https://xihongzhou.github.io/talks/2020-07-05_ITC-CSCC_zhou[Slides].pdf) |<span style="color:green">Nagoya,<br>Japan</span>
+|23/11/2022 |"Study on the High Reliability of MPLD (Memory-based Programmable Logic Device),” *Presentation in ATS-2022, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award*. [[Slides]](https://xihongzhou.github.io/talks/2022-11-23_ATS-Ph.D-Thesis-Competition_Zhou[Sildes].pdf) |<span style="color:green">Taichung,<br>Taiwan</span>
+|25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,” *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-11-25-WRTLT_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
+|28/06/2021 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),” *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-06-28-ITC-CSCC_zhou[Slides].pdf) |<span style="color:green">Jeju,<br>Korea</span>
+|18/09/2020 |"Implementing Neural Networks on Memory-based Reconfigurable Logic Device (MRLD),” *Presentation in 30th Microelectronics Symposium (MES 2020)*. [[Slides]](https://xihongzhou.github.io/talks/2020-09-18_MES_zhou[Slides].pdf) |<span style="color:green">Osaka,<br>Japan</span>
+|05/07/2020 |"Aging Monitoring for Memory-based Reconfigurable Logic Device (MRLD),” *Presentation in the 35th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2020)*. [[Slides]](https://xihongzhou.github.io/talks/2020-07-05_ITC-CSCC_zhou[Slides].pdf) |<span style="color:green">Nagoya,<br>Japan</span>
 |04/03/2020 |"メモリベース論理再構成デバイス(MRLD)における劣化状態検知のためのリングオシレータ実装", *第34回エレクトロニクス実装学会春季講演大会講演集 (JIEP 2020) の発表*. [[Slides]](https://xihongzhou.github.io/talks/2020-03-04_JIEP_zhou[Slides].pdf) |<span style="color:green">横浜,<br>日本</span>
-|21/08/2019 |"Application for Doctoral Program", *in the Graduate School of Science and Engineering,Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2019-08-21_Application-for-Doctoral-Program_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
+|21/08/2019 |"Application for Doctoral Program,” *in the Graduate School of Science and Engineering,Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2019-08-21_Application-for-Doctoral-Program_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
 |22/09/2018 |"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*.  [[Slides]](https://xihongzhou.github.io/talks/2018-09-22_SJCIEE_zhou[Sildes].pdf)|<span style="color:green">松山,<br>日本</span>
-|14/11/2016 |"Self introduction of my B.S. researches", *Computer System Lab. (Takahashi Lab.), Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2016-11-14_Self-Introduction_of_B.S._Researches_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
+|14/11/2016 |"Brief introduction of the B.S. research,” *Computer System Lab. (Takahashi Lab.), Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2016-11-14_Self-Introduction_of_B.S._Researches_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4'></script>
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dxrv8f1ttn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
