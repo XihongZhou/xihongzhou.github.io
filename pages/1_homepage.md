@@ -57,6 +57,7 @@ permalink: /homepage/
 
 #### 2022
 
++ **Xihong Zhou**, ["Study on the High Reliability of MPLD (Memory-based Programmable Logic Device),"](https://ats2022.ee.nthu.edu.tw/program.php) *in Asian Test Symposium, Ph.D. Thesis Competition, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award (**ATS Doctoral Thesis Award**)*, nov. 2022. [[📄PDF]](https://xihongzhou.github.io/papers/Conferences/International/2022-11-23_ATS-Ph.D-Thesis-Competition_Zhou.pdf)
 + Senling Wang, **Xihong Zhou**, Yoshinobu Higami, Hiroshi Takahashi, Hiroyuki Iwata, Yoichi Maeda, Jun Matsushima, ["Test Point Insertion for Multi-Cycle Power-On Self-Test,"](https://dl.acm.org/doi/10.1145/3563552) *ACM Transactions on Design Automation of Electronic Systems (**ACM TODES**)*, sep. 2022. [[📄PDF]](https://xihongzhou.github.io/papers/Journals/2022-09-13_ACM-TODES.pdf)
 
 #### 2021
