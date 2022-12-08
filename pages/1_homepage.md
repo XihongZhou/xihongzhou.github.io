@@ -135,6 +135,7 @@ permalink: /homepage/
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4'></script> -->
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dxrv8f1ttn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dxrv8f1ttn&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=49" async="async"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4"></script>
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=52nyqdiso38&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> -->
 
 <!-- <script src="//unpkg.com/d3-array"></script>
