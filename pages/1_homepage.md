@@ -132,7 +132,7 @@ permalink: /homepage/
 |22/09/2018 |"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*.  [[Slides]](https://xihongzhou.github.io/talks/2018-09-22_SJCIEE_zhou[Sildes].pdf)|<span style="color:green">松山,<br>日本</span>
 |14/11/2016 |"Brief introduction of the B.S. research,” *Computer System Lab. (Takahashi Lab.), Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2016-11-14_Self-Introduction_of_B.S._Researches_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=7817f9&w=300&t=tt&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=7817f9'></script>
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5dxrv8f1ttn&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dxrv8f1ttn&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=49" async="async"></script> -->
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4"></script> -->
