@@ -474,7 +474,8 @@ blockquote:last-child {
 }
 
 #content ul li li:hover{
-	color:  rgb(63, 15, 235);
+	/* color:  rgb(63, 15, 235); */ /*2022-12-10*/
+	color:  rgb(0, 0, 255); /*2022-12-10*/
 }
 
 .shadow-bottom-center{
