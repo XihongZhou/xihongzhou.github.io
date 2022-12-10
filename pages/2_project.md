@@ -11,8 +11,14 @@ permalink: /project/
 
 
 
-> Guarantee the long-term reliability of the MPLD.
+> Detect and identify manufacturing defects of the MPLD.
 ---
 
-> Realize the intelligent processing in the MPLD.
+> Detect aging-induced failures for the MPLD in the field.
+---
+
+> Run neural network on the MPLD as an novel reconfigurable AI Chip.
+---
+
+> Implement the matrix computation using MPLD as an edge AI accelerator.
 ---
