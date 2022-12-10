@@ -68,7 +68,8 @@ nav{
 }
 .post-area{
 	
-	background-color:#f8f8fd;
+	/* background-color:#f8f8fd; */ /*2022-12-10*/
+	background-color:#ffffff; /*2022-12-10*/
 	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
 	-o-box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
