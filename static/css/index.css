@@ -478,7 +478,8 @@ blockquote:last-child {
 }
 
 .shadow-bottom-center{
-	background-color:#f8f8fd; 
+	/* background-color:#f8f8fd; */ /*2022-12-10*/
+	background-color:#ffffff; /*2022-12-10*/
 	-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
 	-o-box-shadow: 0 1px 5px rgba(0,0,0,0.4),0 0 20px rgba(0,0,0,0.1) inset;
