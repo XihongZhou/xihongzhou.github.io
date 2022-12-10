@@ -215,7 +215,10 @@ nav{
 	/*←相対位置*/
 	box-sizing: border-box;
 	/*←全て含めてmin-height:100vhに*/
-	background-color: rgb(0, 0, 0); /*2022-12-10*/
+
+	/* background-color: rgb(0, 0, 0);  */
+	/*2022-12-10*/
+	
 }
 
 /* footer */
