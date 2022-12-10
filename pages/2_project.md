@@ -17,7 +17,7 @@ permalink: /project/
 > Detect aging-induced failures for the MPLD in the field.
 ---
 
-> Run neural network on the MPLD as an novel reconfigurable AI Chip.
+> Run neural network on the MPLD as a novel reconfigurable AI Chip.
 ---
 
 > Implement the matrix computation using MPLD as an edge AI accelerator.
