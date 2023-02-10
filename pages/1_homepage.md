@@ -132,4 +132,4 @@ permalink: /homepage/
 |22/09/2018 |"サウンドコード技術を利用した電気錠システムの開発", *電気関係学会四国支部連合大会 (SJCIEE 2018) の発表*.  [[Slides]](https://xihongzhou.github.io/talks/2018-09-22_SJCIEE_zhou[Sildes].pdf)|<span style="color:green">松山,<br>日本</span>
 |14/11/2016 |"Brief introduction of the B.S. research,” *Computer System Lab. (Takahashi Lab.), Ehime University*.  [[Slides]](https://xihongzhou.github.io/talks/2016-11-14_Self-Introduction_of_B.S._Researches_zhou[Slides].pdf)|<span style="color:green">松山,<br>日本</span>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Tqy42k3GywODeBb96KjQieOfKtXIlSTK1dEFmbhjbj4'></script> -->
