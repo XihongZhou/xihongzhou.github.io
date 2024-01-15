@@ -22,13 +22,18 @@ permalink: /homepage/
   <div id="biography" class="col-sm-8">
     <span><font  size="6"><b>Xihong Zhou</b></font></span>
     <p>
-    <font size="4">Ph.D. student<br>
+    <font size="4">
+      Current Job:<br>
+      Embedded system development engineer<br>
+      Education:<br>
+      Ph.D. degree<br>
       <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory (Takahashi Lab.)</a><br>
       <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_cs_en.html">Computer Science Course</a><br>
       <a href="https://www.eng.ehime-u.ac.jp/rikougaku/outline/organization/ecs_en.html">Electrical and Electronic Engineering and Computer Science</a><br>
       <a href="https://www.ehime-u.ac.jp/en/education/graduate-school-of-science-and-engineering/">Graduate School Of Science and Engineering</a><br>
       <a href="https://www.ehime-u.ac.jp/en/">Ehime University</a><br>
-      <a href="mailto:g863003a@mails.cc.ehime-u.ac.jp"><span class="glyphicon glyphicon-envelope"></span> xihong-zhou@outlook.com</a><br>
+      <br>
+      <a href="mailto:xihong-zhou@outlook.com"><span class="glyphicon glyphicon-envelope"></span> xihong-zhou@outlook.com</a><br>
     </font>
     </p><br>
     <span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Simsun; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
@@ -38,7 +43,7 @@ permalink: /homepage/
 <p align="justify" style="margin-bottom: 0.5em">
 <font size="3"><b>Brief Biography:</b></font>
 <font size="3.0">
-  Xihong Zhou is received the BS degree from the College of Electrical and Information Engineering, BeiHua University, China, in 2016, and the MS degree from the Electrical and Electronic Engineering and Computer Science in the Graduate School of Science and Engineering, Ehime University, Japan, in 2019. Currently, he is a third-year Ph.D. student, supervised by Prof. Hiroshi Takahashi, majoring in Electrical and Electronic Engineering and Computer Science at the Graduate School of Science and Engineering, Ehime University, Japan. His research interest includes <strong>Design</strong> <i>(for High-Performance, Power-Consumption)</i> and <strong>Test</strong> <i>(for Reliability/Dependability: Testing, Diagnosis, and Design-for-Testability)</i> of <strong>Computers</strong> <i>(VLSI Circuits, In-memory Computing Devices, Reconfigurable/Programmable Devices, AI/IoT Edge Computing Devices)</i>.
+  Xihong Zhou is received the received M.S. and Ph.D. degree from the Electrical and Electronic Engineering and Computer Science in the Graduate School of Science and Engineering, Ehime University, Japan, in 2019 and 2023, respectively. Currently, he work as embedded system development engineer in Japan. His research interest includes <strong>Design</strong> <i>(for High-Performance, Power-Consumption)</i> and <strong>Test</strong> <i>(for Reliability/Dependability: Testing, Diagnosis, and Design-for-Testability)</i> of <strong>Computers</strong> <i>(VLSI Circuits, In-memory Computing Devices, Reconfigurable/Programmable Devices, AI/IoT Edge Computing Devices)</i>.
 </font>
 </p> 
 <hr>
@@ -54,6 +59,16 @@ permalink: /homepage/
 ## Publications
 
 ---
+
+#### 2023
+
++ **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Testing and Delay-Monitoring for the High Reliability of Memory-based Programmable Logic Device,"](https://doi.org/10.1587/transinf.2023EDP7101) *IEICE Transactions on Information and Systems (**IEICE TRANS. INF. & SYSTS**)*, Jan. 2024. [[📄PDF]](https://xihongzhou.github.io/papers/Journals/2024-01-01_IEICE-TRANS.INF.&SYST.pdf)
+
++ 本田志遠, 西川竜矢, **周 細紅**, 王 森レイ, 甲斐 博, 樋上喜信, 高橋 寛, 井上克己, ["メモリズムパターンマッチングアクセラレータのFPGA実装と性能評価,"](https://www.ieice.org/publications/ken/summary.php?contribution_id=127186&society_cd=ISS&ken_id=IE&year=2023&presen_date=2023-11-16&schedule_id=8058&lang=jp&expandable=3) *電子情報通信学会技術研究報告 信学技報 デザインガイア2023 -VLSI設計の新しい大地- (**IEICE-DC**)*, Nov. 2023. 
+
++ 笹川健太, 西川竜矢, **周 細紅**, 王 森岭, 甲斐 博, 高橋 寛, ["メモリ型論理再構成装置におけるニューラルネットワークの実装について,"](https://www.ieice.org/publications/ken/summary.php?contribution_id=127191&society_cd=ISS&ken_id=IE&year=2023&presen_date=2023-11-16&schedule_id=8058&lang=jp&expandable=3) *電子情報通信学会技術研究報告 信学技報 デザインガイア2023 -VLSI設計の新しい大地- (**IEICE-DC**)*, Nov. 2023. 
+
++ 本田 志遠, **周 細紅**, 王 森レイ, 甲斐 博, 高橋 寛, 井上 克己, ["インメモリ型高速パターンマッチングアーキテクチャのFPGA 実 装と性能評価,"] *2023年電気・電子・情報関係学会四国支部連合大会 (**ISJCIEE**)*, Oct. 2023. 
 
 #### 2022
 
