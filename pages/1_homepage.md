@@ -25,6 +25,7 @@ permalink: /homepage/
     <font size="4">
       Current Job:<br>
       Embedded system development engineer<br>
+      <br>
       Education:<br>
       Ph.D. degree<br>
       <a href="http://larissa.cs.ehime-u.ac.jp/">Computer System Laboratory (Takahashi Lab.)</a><br>
