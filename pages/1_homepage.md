@@ -63,7 +63,7 @@ permalink: /homepage/
 
 #### 2023
 
-+ **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Testing and Delay-Monitoring for the High Reliability of Memory-based Programmable Logic Device,"](https://doi.org/10.1587/transinf.2023EDP7101) *IEICE Transactions on Information and Systems (**IEICE TRANS. INF. & SYSTS**)*, Jan. 2024. [[📄PDF]](https://xihongzhou.github.io/papers/Journals/2024-01-01_IEICE-TRANS.INF.&SYST.pdf)
++ **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Testing and Delay-Monitoring for the High Reliability of Memory-based Programmable Logic Device,"](https://doi.org/10.1587/transinf.2023EDP7101) *IEICE Transactions on Information and Systems (**IEICE TRANS. INF. & SYSTS.**)*, Jan. 2024. [[📄PDF]](https://xihongzhou.github.io/papers/Journals/2024-01-01_IEICE-TRANS.INF.&SYST.pdf)
 
 + 本田志遠, 西川竜矢, **周 細紅**, 王 森レイ, 甲斐 博, 樋上喜信, 高橋 寛, 井上克己, ["メモリズムパターンマッチングアクセラレータのFPGA実装と性能評価,"](https://www.ieice.org/publications/ken/summary.php?contribution_id=127186&society_cd=ISS&ken_id=IE&year=2023&presen_date=2023-11-16&schedule_id=8058&lang=jp&expandable=3) *電子情報通信学会技術研究報告 信学技報 デザインガイア2023 -VLSI設計の新しい大地- (**IEICE-DC**)*, Nov. 2023. 
 
