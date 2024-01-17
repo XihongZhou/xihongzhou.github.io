@@ -24,7 +24,7 @@ permalink: /homepage/
     <p>
     <font size="4">
       Current Job:<br>
-      Embedded system development engineer<br>
+      Embedded system development<br>
       <br>
       Education:<br>
       Ph.D. degree<br>
