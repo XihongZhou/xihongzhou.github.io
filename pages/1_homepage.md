@@ -140,6 +140,7 @@ permalink: /homepage/
 ## Talks
 
 ---
+
 |10/08/2023 |"Study on the Reliability Enhancement of Edge Computing Devices,” *in Ehime University*. [[Slides]](https://xihongzhou.github.io/talks/2023-08-10_Doctoral-Thesis_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
 |23/11/2022 |"Study on the High Reliability of MPLD (Memory-based Programmable Logic Device),” *Presentation in ATS-2022, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award*. [[Slides]](https://xihongzhou.github.io/talks/2022-11-23_ATS-Ph.D-Thesis-Competition_Zhou[Sildes].pdf) |<span style="color:green">Taichung,<br>Taiwan</span>
 |25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,” *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-11-25-WRTLT_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
