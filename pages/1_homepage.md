@@ -61,6 +61,9 @@ permalink: /homepage/
 
 ---
 
+#### Doctoral Thesis
++ **Xihong Zhou**, Supervisor: Hiroshi Takahashi (Full Professor), "Study on the Reliability Enhancement of Edge Computing Devices". *Ehime University*, Aug. 2023. [[📄PDF]](https://xihongzhou.github.io/papers/Thesis/2023-06-30_Doctoral-Thesis_Zhou.pdf)
+
 #### 2023
 
 + **Xihong Zhou**, Senling Wang, Yoshinobu Higami, Hiroshi Takahashi, ["Testing and Delay-Monitoring for the High Reliability of Memory-based Programmable Logic Device,"](https://doi.org/10.1587/transinf.2023EDP7101) *IEICE Transactions on Information and Systems (**IEICE TRANS. INF. & SYSTS.**)*, Jan. 2024. [[📄PDF]](https://xihongzhou.github.io/papers/Journals/2024-01-01_IEICE-TRANS.INF.&SYST.pdf)
@@ -137,7 +140,7 @@ permalink: /homepage/
 ## Talks
 
 ---
-
+|10/08/2023 |"Study on the Reliability Enhancement of Edge Computing Devices,” *in Ehime University*. [[Slides]](https://xihongzhou.github.io/talks/2023-08-10_Doctoral-Thesis_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
 |23/11/2022 |"Study on the High Reliability of MPLD (Memory-based Programmable Logic Device),” *Presentation in ATS-2022, Semi-Final of 2023 TTTC's E. J. McCluskey Doctoral Thesis Award*. [[Slides]](https://xihongzhou.github.io/talks/2022-11-23_ATS-Ph.D-Thesis-Competition_Zhou[Sildes].pdf) |<span style="color:green">Taichung,<br>Taiwan</span>
 |25/11/2021 |"Diagnosis for Interconnect Faults in Memory-based Reconfigurable Logic Device,” *Presentation in 30th Microelectronics Symposium (WRTLT 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-11-25-WRTLT_zhou[Slides].pdf) |<span style="color:green">Matsuyam,<br>Japan</span>
 |28/06/2021 |"MNN: A Solution to Implement Neural Networks into a Memory-based Reconfigurable Logic Device (MRLD),” *Presentation in the 36th International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC 2021)*. [[Slides]](https://xihongzhou.github.io/talks/2021-06-28-ITC-CSCC_zhou[Slides].pdf) |<span style="color:green">Jeju,<br>Korea</span>
